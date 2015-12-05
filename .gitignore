@@ -1,0 +1,10 @@
+# no maven output directory
+target
+
+# no IDE config files
+*.iml
+.idea
+.project
+.metadata
+.classpath
+.settings
